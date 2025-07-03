@@ -4,7 +4,7 @@
 #include <cstring>
 using namespace std;
 class Computer {
-    char title[64];
+    char title[100];
     double frequency;
     int RAM;
     bool DVD;
